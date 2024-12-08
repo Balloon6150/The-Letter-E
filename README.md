@@ -1,0 +1,1 @@
+This is a python script which, plays fun games inside the terminal of the python script. Learn about the letter e and play multiple educational games which can teach kids how to spell complex words with the letter e.
